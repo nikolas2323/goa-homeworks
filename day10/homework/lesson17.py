@@ -1,2 +1,2 @@
-for num in range(30):
+for num in range(31):
     print(num, "Goa Is The Best!")
