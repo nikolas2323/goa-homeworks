@@ -1,7 +1,7 @@
-x=str(input("Enter a number:"))
+x=int(input("Enter a number:"))
 
-if x % 2 == 0 or x % 3 == 0 or x % 5 == 0:
-    print("your number is not easy")
+if x // 1 and x // x:
+    print("your number is not simple")
 
 else:
-    print("your number is easy")
+    print("your number is simple")

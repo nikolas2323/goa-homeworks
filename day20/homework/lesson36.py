@@ -1,8 +1,8 @@
-list=[]
-x=str(input("Enter your name: "))
-y=str(input('Enter your last name: '))
+list = []
+x = int(input("Enter your name: "))
+y = int(input('Enter your last name: '))
 
-list.append(x)
-list.append(y)
+list.append(x+y)
+
 print(list)
 
