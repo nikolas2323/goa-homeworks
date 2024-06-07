@@ -1,0 +1,7 @@
+h1 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 30px 30px 2px red;
+    letter-spacing: 10px;
+    word-spacing: 2px;
+}
