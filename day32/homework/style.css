@@ -1,0 +1,12 @@
+h1 {
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-shadow: 30px 30px 2px red;
+    letter-spacing: 10px;
+    word-spacing: 2px;
+    text-align: center;
+    border-left: ridge;
+    border-right:groove;
+    border-bottom: thick;
+    border-top: dotted;
+}

@@ -1,0 +1,23 @@
+ol {
+    list-style-type: georgian;
+}
+
+ul {
+    list-style-image: url('chad.jpg');
+}
+
+a {
+    transition: 1s;
+}
+
+a:hover {
+    color: red;
+    text-decoration: line-through;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+a:active{
+    color: orange;
+    letter-spacing: 10px;
+}

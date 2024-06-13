@@ -1,0 +1,22 @@
+.hi{
+/*div will have the width of 350px  */
+width: 350px;
+/* div will have the height of 350px */
+height: 350px;
+/* backround will be orange */
+background-color: orange;
+/* the border will be a circle */
+border-radius: 50%;
+/* the text will be in the middle */
+text-align: center;
+/* left will be 20px dotted and blue */
+border-left: 20px dotted blue;
+/* right will be 30px double and lime */
+border-right: 30px double lime;
+/* top will be 20px double and kakhi */
+border-top: 20px dashed khaki;
+/* bottom will be ridge 40px and rebeccapurple */
+border-bottom: 40px ridge rebeccapurple;
+background-image: url('chad.png');
+background-repeat:no-repeat ;
+}
