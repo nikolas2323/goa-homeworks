@@ -3,7 +3,7 @@ if x > 0:
         print("Your number is positive!")
 
 if x < 0:
-        print("Your number is neagtive!")
+        print("Your number is negative!")
 
 if x == 0:
         print("Your number is zero!")
