@@ -1,0 +1,39 @@
+.b2 {
+    border-radius: 50px;
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+    color:white;
+    border: 0cap;
+}
+
+.l1 {
+    float: right;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.r1 {
+    background-color: blue;
+    color: white;
+    border-radius: 50px;
+    border: 0cap;
+    width: 100px;
+    height: 30px;
+}
+
+.t1{
+    float:right ;
+    width: 700px;
+    height: 600px;
+}
+
+.d1 {
+    font-size: 40px;
+}
+
+.w1 {
+    font-size: 100px;
+}
+
