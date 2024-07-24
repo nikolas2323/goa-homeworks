@@ -1,5 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 .perfume {
     border-radius: 30px;
+    height: 900px;
 }
 
 .per1 {
@@ -47,14 +54,14 @@
 button {
     background-color:rgb(15, 148, 104); 
     color: white;
-    width: 300px;
-    height: 70px;
+    width: 280px;
+    height: 55px;
     border: 0cap;
     border-radius: 15px;
     font-size: larger;
     position: relative;
     left: 650px;
-    top: -700px;
+    top: -630px;
     
 }
 
