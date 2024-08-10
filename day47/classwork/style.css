@@ -17,24 +17,73 @@ body {
     padding: 10px;
     display: grid;
     grid-template-columns: 3fr 1fr 1fr;
+    grid-template-rows: 2fr 2fr 4fr;
     gap: 15px;
-    grud
 }
 
 .item1 {
     background-color: rgb(128, 29, 195);
     color: white;
     border-radius: 10px;
+    height: 250px;
+    width: 600px;
+    position: relative;
+    right: 200px;
 }
 
 .item2 {
     background-color: rgb(61, 56, 56);
     border-radius: 10px;
     color: white;
+    height: 250px;
+    width: 300px;
+    position: relative;
+    right: 200px;
 }
 
 .item3 {
     background-color: white;
     border-radius: 10px;
     color: black;
+    height: 400px;
+    width: 300px;
+    position: relative;
+    right: 500px;
+}
+
+.w {
+    color: rgb(176, 65, 249);
+}
+
+.qer {
+    color: rgb(192, 185, 185);
+}
+
+.item4 {
+    background-color: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 250px;
+    position: relative;
+    right: 200px;
+    bottom: 150px;
+}
+
+.item5 {
+    color: white;
+    background-color: black;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+    position: relative;
+    right: 500px;
+    bottom: 150px;
+}
+
+.reer {
+    color: rgb(182, 179, 179);
+}
+
+.qer1 {
+    color: rgb(78, 78, 78);
 }
